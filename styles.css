@@ -107,8 +107,10 @@ h6 {
 	max-width: 100%;
 }
 
-#social img {
-	width: 50px;
+
+#icon-img {
+	height: 10%;
+	width: 10%;
 }
 
 #work_exp {
