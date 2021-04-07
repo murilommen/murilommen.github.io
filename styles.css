@@ -110,3 +110,16 @@ h6 {
 #social img {
 	width: 50px;
 }
+
+#work_exp {
+	text-align: left;
+}
+
+#work_exp h5 {
+	text-align: left;
+	display:block;
+}
+
+#work_exp li {
+	font-size: 0.8em;
+}
