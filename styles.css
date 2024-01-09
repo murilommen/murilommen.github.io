@@ -38,9 +38,28 @@ header {
 	/* filter: blur(2px) */
 }
 
+.exp_items {
+	justify-content: space-between;
+	align-items: center;
+}
+
 .progress-title {
 	margin-top: 10px !important;
 }
+
+
+.progress {
+	height: 5px !important;
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-right-width: 1px;
+	border-right-style: solid;
+}
+
 
 .header-content {
 	padding: 2em;
